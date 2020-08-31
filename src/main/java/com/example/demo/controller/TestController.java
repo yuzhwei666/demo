@@ -3,7 +3,6 @@ package com.example.demo.controller;
 import com.example.demo.common.ResponseVO;
 import com.example.demo.entity.User;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
